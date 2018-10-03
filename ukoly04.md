@@ -29,13 +29,16 @@ Příklad:
 Napiš funkci, která bude jako parametr brát řetězec, a zjistí, zda je tento řetězec palindrom, tj. jestli se čte zepředu stejně jako pozpátku. V takovém případě bude vracet hodnotu True, jinak False.
 
 Příklad volání:
-`je_palindrom('radar') -> True`
-`je_palindrom('židle') -> False`
+```
+je_palindrom('radar') -> True
+je_palindrom('židle') -> False
+```
 
 Varianty:
 
 - program lze postupně vylepšovat např. tak, že nebude brát v úvahu velikost písmen, mezery, diakritku ...
-`je_palindrom('Anna') -> True`
-`je_palindrom('Jelenovi pivo nelej!') -> True`
-
+```
+je_palindrom('Anna') -> True
+je_palindrom('Jelenovi pivo nelej!') -> True
+```
 
