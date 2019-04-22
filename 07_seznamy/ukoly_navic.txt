@@ -1,0 +1,15 @@
+
+
+1. Napiš program, který bude postupně načítat vstupy od uživatele (např. jména)
+a po skončení zadávání vypíše abecedně seřazený seznam těchto jmen.
+
+
+2. Napiš funkci, jejímž vstupem bude seznam celých čísel, a výstupem
+počet sudých čísel v seznamu. Např.:
+spocitej_suda([2, 3, 44, 5, 2]) -> 3
+
+Fungování můžeš ověřit zde: http://codingbat.com/prob/p189616 - jen je potřeba,
+aby se funkce jmenovala count_evens, parametry můžou být pojmenované libovolně.
+Pod záložkou Python na této stránce najdeš mnoho podobných drobných úkolů,
+kdyby ses nudila. :)
+
